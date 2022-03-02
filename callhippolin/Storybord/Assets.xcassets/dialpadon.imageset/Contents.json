@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "idiom" : "universal",
+      "filename" : "dialpadon.png",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "filename" : "dialpadon@2x.png",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "filename" : "dialpadon@3x.png",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  }
+}

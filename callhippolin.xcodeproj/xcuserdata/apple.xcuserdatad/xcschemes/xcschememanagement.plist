@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>CallHippo ServiceExtension.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>33</integer>
+		</dict>
+		<key>IntentAudioCall.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>39</integer>
+		</dict>
+		<key>IntentAudioCallUI.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>40</integer>
+		</dict>
+		<key>IntentCall.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>37</integer>
+		</dict>
+		<key>IntentCallUI.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>38</integer>
+		</dict>
+		<key>IntentHandler.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>35</integer>
+		</dict>
+		<key>IntentHandlerUI.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>36</integer>
+		</dict>
+		<key>IntentInitiateCall.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>36</integer>
+		</dict>
+		<key>IntentInitiateCallUI.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>35</integer>
+		</dict>
+		<key>callhippolin.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,6 @@
+module Pods_callhippolin {
+  umbrella header "Pods-callhippolin-umbrella.h"
+
+  export *
+  module * { export * }
+}
