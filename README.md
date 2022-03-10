@@ -40,3 +40,9 @@ We've integrated Crashlytics into Voip_calling_iphone, which can automatically s
 -	“LoginViewController” is a login view class where user can add their sip credentials to register the endpoints.
 -	After registering endpoint successfully there is “Dialer” screen from where user can dial the number and initiate call.
 -	In calling screen there is a basic functions like hold, mute, speaker and IVR.
+
+**Documentation**
+
+Please check below document for detailed app flow
+	- https://docs.google.com/document/d/15AJlwUH2ZMbFxaqJO5UqP8suuVEMsS9MsC5NRvk7UwA/edit?usp=sharing
+
